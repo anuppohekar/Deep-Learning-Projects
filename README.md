@@ -12,3 +12,6 @@ Applying Transfer for better performance
 
 Copy of Week4_OD.ipynb -
 Object detection using architecture yolo3
+
+Copy of FINETUNING-2.ipynb -
+applying fine tuning architecture to make model suitable for particular task using data from imagenet 
